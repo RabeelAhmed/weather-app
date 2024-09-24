@@ -1,7 +1,7 @@
 import React from 'react'
-import Todo from './components/todoreact/Todo'
+import Temp from './components/weather/Temp'
 
 export default function App() {
-  return <Todo/>
+  return <Temp/>
 
 }
